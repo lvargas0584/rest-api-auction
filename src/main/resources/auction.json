@@ -1,0 +1,35 @@
+{
+    "id": "5ee66cfdaaf6147e8df478bb",
+    "promotionalName": "Subasta ONLINE por el día del Padre!!",
+    "startDate": "",
+    "transmissionUrl": "",
+    "products": [
+        {
+            "id": "5ee66cfdaaf6147e8df423435",
+            "name": "Pantalon / Gucci",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque commodi consequatur debitis",
+            "image": "/opt/auction/images/5ee66cfdaaf6147e8df423435.jpg"
+        },{
+            "id": "5ee66cfdaaf6147e8df123454",
+            "name": "Blusa / Angela Andrea",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A atque commodi consequatur debitis",
+            "image": "/opt/auction/images/5ee66cfdaaf6147e8df123454.jpg"
+        }
+    ],
+    "bidderButtons": [
+        {
+            "id": "5ee66cfdaaf6147e8df123454",
+            "text": "+ S/. 1.00",
+            "value": "5"
+        },
+        {
+            "id": "5ee66cfdaaf6147e8df123454",
+            "text": "+ S/. 5.00",
+            "value": "5"
+        },{
+            "id": "5ee66cfdaaf6147e8df123454",
+            "text": "+ S/. 10.00",
+            "value": "1"
+        }
+    ]
+}
